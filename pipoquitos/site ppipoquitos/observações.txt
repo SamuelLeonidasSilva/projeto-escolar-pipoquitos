@@ -1,0 +1,1 @@
+para acessar o site é necessario iniciar o arquivo .bat (pois nesse arquivo abrira diretamente o link do site)
